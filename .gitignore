@@ -1,0 +1,168 @@
+# Compiled Object Files
+*.o
+*.obj
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+todo_manager
+todo_manager.exe
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Debug Files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+bin/
+obj/
+debug/
+release/
+
+# IDE and Editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Data files (optional - uncomment if you don't want to track data files)
+# data/*.dat
+# data/*.backup
+# *.log
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Documentation generated files
+docs/html/
+docs/latex/
+*.pdf
+
+# Code coverage
+*.gcov
+*.gcda
+*.gcno
+coverage/
+
+# Profiling
+gmon.out
+
+# Static analysis
+cppcheck-*
+
+# Package files
+*.tar.gz
+*.zip
+*.7z
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bsc
+*.sbr
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.tmp_proj
+
+# Code::Blocks
+*.layout
+*.depend
+
+# Dev-C++
+*.dev
+
+# Eclipse
+.metadata
+.project
+.cproject
+
+# NetBeans
+nbproject/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Makefile generated files
+Makefile.in
+aclocal.m4
+config.h.in
+configure
+autom4te.cache/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Autotools
+.deps/
+.libs/
+*.lo
+*.la
+config.log
+config.status
+libtool
+stamp-h1
+
+# Memory checking
+valgrind-*.log
+
+# Custom build outputs (if any)
+dist/
